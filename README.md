@@ -7,7 +7,7 @@ Browser extension that changes images of President Putin to that of the 'we're a
 # For Firefox
 Go to about:debugging#/runtime/this-firefox
 
-You'll see a 'Load Temporary Add-on' option, load the folder with the files in them here.
+You'll see a 'Load Temporary Add-on' option, load the manifest.json file.
 
 # For Chrome
 Go to chrome://extensions.
