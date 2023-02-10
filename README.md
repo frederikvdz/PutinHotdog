@@ -1,7 +1,7 @@
 # PutinHotdog
 Browser extension that changes images of President Putin to that of the 'we're all trying to find the guy who did this'-meme
 
-# To instal locally follow these steps:
+# To install locally follow these steps:
 - download the extension folder and unzip it
 
 # For Firefox
