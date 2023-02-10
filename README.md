@@ -14,3 +14,8 @@ Go to chrome://extensions.
 Turn on Developer Mode and switch to it
 
 Load the folder with the files in them here.
+
+# Some notes
+It relies on a correctly formated image with either an alt text or title. So it's not full proof. A figure with figcaption will also work. 
+- css background images don't work (yet)
+
