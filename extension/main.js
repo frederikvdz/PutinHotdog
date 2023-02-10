@@ -31,7 +31,7 @@ function hotdogify(elem){
 }
 
 function imgReplace(elem){
-      elem.src = `${browser.runtime.getURL("hotdog.jpg")}`
+      elem.src = `${chrome.runtime.getURL("hotdog.jpg")}`
       elem.alt = 'Putin trying to find the guy who did this'
       elem.style.objectFit = 'cover';
       elem.srcset= "";
