@@ -2,8 +2,7 @@
 Browser extension that changes images of President Putin to that of the 'we're all trying to find the guy who did this'-meme
 
 # To instal locally follow these steps:
-- download the files
-- place them in a folder 
+- download the extension folder and unzip it
 
 # For Firefox
 Go to about:debugging#/runtime/this-firefox
