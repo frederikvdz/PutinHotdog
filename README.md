@@ -5,11 +5,13 @@ Browser extension that changes images of President Putin to that of the 'we're a
 - download the files
 - place them in a folder 
 
-#For Firefox
-Go to about:debugging#/runtime/this-firefox 
+# For Firefox
+Go to about:debugging#/runtime/this-firefox
+
 You'll see a 'Load Temporary Add-on' option, load the folder with the files in them here.
 
-#For Chrome
+# For Chrome
 Go to chrome://extensions.
 Turn on Developer Mode and switch to it
+
 Load the folder with the files in them here.
