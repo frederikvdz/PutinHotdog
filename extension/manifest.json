@@ -1,7 +1,14 @@
 {
   "manifest_version":3,
-  "version":"1.1",
+  "version":"1.0",
   "name":"PutinHotDog",
+  "description":"Browser extension that changes images of President Putin to that of the 'we're all trying to find the guy who did this'-meme",
+   "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "content_scripts":[
     {
      "matches":["<all_urls>"],
